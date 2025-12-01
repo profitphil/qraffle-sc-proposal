@@ -18,7 +18,7 @@ Allow the **Qraffle Smart Contract** to be deployed on Qubic.
 It provides:
 
 - A **Standard Raffle** that runs automatically every epoch.
-- **Token Raffles** that allow the community to propose and vote on raffles using different tokens.
+- **Token Raffles** that allow the community to propose and vote on raffles using different tokens (GARTH, MATILDA, CFB, etc).
 - A built-in **DAO system** where registered participants earn a share of the protocol revenue and help govern the system.
 
 Qraffle is designed to:
