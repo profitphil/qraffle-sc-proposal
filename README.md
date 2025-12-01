@@ -29,22 +29,6 @@ Qraffle is designed to:
 
 ---
 
-## Problem Qraffle Solves
-
-Without a system like Qraffle:
-
-- There is **no native, on-chain raffle system** tied to epochs.
-- There is **limited recurring, gamified demand** for $QUBIC and ecosystem tokens.
-- There is **no structured way** for community members to share in raffle revenues or to govern which token raffles are run.
-
-This leads to:
-
-- Lower engagement around epochs  
-- Fewer recurring burn events  
-- Less incentive for long-term ecosystem contributors  
-
----
-
 ## Qraffle Solution
 
 Qraffle introduces an **epoch-based raffle system** with a built-in DAO:
@@ -170,7 +154,10 @@ Breakdown of the **20% Fee**:
 - **1%** → Protocol Fees  
 - **1%** → Charity (**@Kimz300**)  
 
-So for any raffle:
+---
 
-```text
-Fee (20%) + Prize (80%) = 100% of the pool
+## Technical Implementation
+
+From: [qubic/core#556](https://github.com/qubic/core/pull/566/commits/7384b6e27a7e87f13fa7cb30ff706a56c59a780a)
+
+Please find the current implementation details below:
