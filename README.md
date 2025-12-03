@@ -161,7 +161,7 @@ Breakdown of the **20% Fee**:
 From: [qubic/core#556](https://github.com/qubic/core/pull/566/commits/7384b6e27a7e87f13fa7cb30ff706a56c59a780a)
 
 Please find the current implementation details below:
-
+```
 using namespace QPI;
 
 constexpr uint64 QRAFFLE_REGISTER_AMOUNT = 1000000000ull;
@@ -1619,3 +1619,4 @@ protected:
     }
 };
 
+```
